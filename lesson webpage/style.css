@@ -1,0 +1,11 @@
+.fat {
+    font-weight: 800;}
+.kursiv {
+
+    font-style: oblique;} 
+.no_marker {
+    list-style-type: none;
+}
+.num_list
+{ background:rgb(255, 0, 179);
+    color:rgb(113, 226, 43); }
